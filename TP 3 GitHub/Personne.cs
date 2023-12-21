@@ -8,6 +8,6 @@ namespace TP_3_GitHub
 {
     internal class Personne
     {
-        //branche dev
+        //branche personne
     }
 }
